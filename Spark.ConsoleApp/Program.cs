@@ -1,4 +1,4 @@
-﻿namespace Spark.Console
+﻿namespace Spark.ConsoleApp
 {
     internal class Program
     {
